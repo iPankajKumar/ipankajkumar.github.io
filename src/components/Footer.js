@@ -17,13 +17,13 @@ function Footer() {
          
         </Col>
         <Col md="4" className="footer-copywright">
-        <h3>Made with <span style={{color:"#e25555"}}>❤</span> by Pankaj Singh</h3>
+        <h3>Made with <span style={{color:"#e25555"}}>❤</span> by Pankaj Kumar</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/ipankajsingh"
+                href="https://github.com/ipankajkumar"
                 style={{ color: "white" }}
               >
                 <AiFillGithub />
@@ -48,7 +48,7 @@ function Footer() {
             </li>
             {/* <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/soumyajit4419/"
+                href="https://www.linkedin.com/in//"
                 style={{ color: "white" }}
               >
                 <FaLinkedinIn />
@@ -56,7 +56,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/s.o.u.m.y.a_j.i.t/"
+                href="https://www.instagram.com//"
                 style={{ color: "white" }}
               >
                 <AiFillInstagram />

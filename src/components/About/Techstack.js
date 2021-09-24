@@ -8,7 +8,8 @@ import {
   DiNodejs,
   DiMongodb,
   DiGit,
-  DiMysql
+  DiMysql,
+  DiPostgresql
 } from "react-icons/di";
 
 function Techstack() {
@@ -34,6 +35,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiPostgresql />
       </Col>
       
     </Row>

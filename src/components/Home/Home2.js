@@ -22,7 +22,10 @@ function Home2() {
              <span>
                 <b className="purple"> syntax</b>
               </span>
-             <b> ,</b> &nbsp;it's about the logic.
+             <b> ,</b> &nbsp;it's about the 
+             <span>
+                <b className="purple"> logic</b>
+              </span>.
               <br />
               It has been 5+ years since then, and I have
               <span>
@@ -31,7 +34,7 @@ function Home2() {
                 every bit about learning that logic.
               <br />I am fluent in 
               <span>
-                <b className="purple"> Java, Spring MVC, Spring BOOT, Microservices, SQL, Angular 8+ etc. </b>
+                <b className="purple"> Java EE, Spring BOOT, Microservices, PostgreSQL, Angular 8+ etc. </b>
               </span>
               <br />
               <br />
@@ -56,7 +59,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/ipankajsingh"
+                  href="https://github.com/ipankajkumar"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

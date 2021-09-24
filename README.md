@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://ipankajsingh.com/" target="_blank">Pankaj Singh</a>
+  <a href="https://pankajkumar.xyz/" target="_blank">Pankaj Kumar</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img.png" />
@@ -19,7 +19,7 @@
 
 ## Built With
 
-My personal portfolio <a href="http://ipankajsingh.com/" target="_blank">Pankaj Singh</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="http://pankajkumar.xyz/" target="_blank">Pankaj Kumar</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
