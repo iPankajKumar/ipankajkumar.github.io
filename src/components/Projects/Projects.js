@@ -28,7 +28,7 @@ function Projects() {
               title="Covid Tracker India"
               description="
               An initiative to make life easier by automating covid vaccination slots look up in India by choosing PIN's' (as per your convenience) and date's', the system will then start searching for available slots in the chosen PIN-date range and ping you the hospital names so that you can book the slots by logging in co-WIN platform."
-              link="https://github.com/ipankajsingh/covidtracker"
+              link="https://github.com/ipankajkumar/covidtracker"
             />
           </Col>
 
