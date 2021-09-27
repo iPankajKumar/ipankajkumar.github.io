@@ -85,9 +85,9 @@ function Resume() {
             <Resumecontent
               title=""
               content={[
-                "Vice President, Sinhgad Institutes - 07/2016 ",
-                "Co-General Secretary, Sinhgad Institutes - 02/2016",
-                "Student Ambassador, Sinhgad Institutes - 01/2016",
+                "Vice President, Sinhgad Institutes - 01/2015 ",
+                "Co-General Secretary, Sinhgad Institutes - 09/2015",
+                "Student Ambassador, Sinhgad Institutes - 02/2016",
                
               ]}
             />
