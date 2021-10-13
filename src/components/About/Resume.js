@@ -94,7 +94,7 @@ function Resume() {
           </Col>
         </Row>
         <Row style={{ justifyContent: "center", position: "relative" }}>
-          <Button variant="primary" href="https://drive.google.com/file/d/1EdH-tzWBCfK8tmc5S07fO0JlLRksPDRU/view?usp=sharing" target="_blank">
+          <Button variant="primary" href="https://drive.google.com/file/d/14Gg-Q0WrxIbndithBzzKcozwFbl5HUaQ/view?usp=sharing" target="_blank">
           <AiOutlineFilePdf />&nbsp;Hire me
           </Button>
         </Row>
