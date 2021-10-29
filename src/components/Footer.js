@@ -25,14 +25,18 @@ function Footer() {
               <a
                 href="https://github.com/ipankajkumar"
                 style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
               >
                 <AiFillGithub />
               </a>
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/isinghPankaj"
+                href="https://twitter.com/iPankajKumar93"
                 style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
               >
                 <AiOutlineTwitter />
               </a>
@@ -42,6 +46,8 @@ function Footer() {
               <a
                 href="mailto:ipankajsingh.10+site@gmail.com"
                 style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
               >
                 <AiOutlineMail />
               </a>
