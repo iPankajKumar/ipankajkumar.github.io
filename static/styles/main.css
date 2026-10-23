@@ -55,18 +55,18 @@
     --color-caution-bg: #fad6d4;
     --color-caution-text: #a40e26;
 
-    /* Accent - Cobalt Blue */
-    --color-accent: #2870C2;
-    --color-accent-hover: #1A5AA8;
-    --color-accent-subtle: #EBF3FF;
-    --color-accent-muted: #7AB8E8;
-    /* Brand accent - fixed cobalt, same in both themes (used where color must not shift) */
-    --color-accent-brand: #2870C2;
+    /* Accent - LinkedIn Blue */
+    --color-accent: #0A66C2;
+    --color-accent-hover: #084E96;
+    --color-accent-subtle: #E8F1FC;
+    --color-accent-muted: #6AADE0;
+    /* Brand accent - fixed, same in both themes (used where color must not shift) */
+    --color-accent-brand: #0A66C2;
 
     /* Scrollbar */
     --scrollbar-track: transparent;
-    --scrollbar-thumb: #3070ba;
-    --scrollbar-thumb-hover: #1A5AA8;
+    --scrollbar-thumb: #0A66C2;
+    --scrollbar-thumb-hover: #084E96;
 
     /* Animations */
     --bounce-offset: -2px;
@@ -77,16 +77,16 @@
     --color-link-visited: #78716C;
 
     /* Tags */
-    --color-tag-bg: #EBF3FF;
-    --color-tag-text: #1A5AA8;
-    --color-tag-border: #AECFF5;
+    --color-tag-bg: #E8F1FC;
+    --color-tag-text: #084E96;
+    --color-tag-border: #9AC3F0;
 
     /* Code */
     --color-code-bg: #F5F5F4;
     --color-code-text: #1C1917;
 
     /* Selection */
-    --color-selection: #AECFF5;
+    --color-selection: #9AC3F0;
     --color-selection-text: #1C1917;
 
     /* Shadows */
@@ -167,28 +167,28 @@
     --color-caution-bg: #2d0b0b;
     --color-caution-text: #ff7b72;
 
-    --color-accent: #5A9FDE;
-    --color-accent-hover: #7AB8E8;
-    --color-accent-subtle: #0A1E3D;
-    --color-accent-muted: #163E70;
+    --color-accent: #4D94D8;
+    --color-accent-hover: #6AADE0;
+    --color-accent-subtle: #091C38;
+    --color-accent-muted: #133968;
 
     /* Scrollbar */
     --scrollbar-track: transparent;
-    --scrollbar-thumb: #163E70;
-    --scrollbar-thumb-hover: #2870C2;
+    --scrollbar-thumb: #133968;
+    --scrollbar-thumb-hover: #0A66C2;
 
     --color-link: #4D9FFF;
     --color-link-hover: #80BFFF;
     --color-link-visited: #A8A29E;
 
-    --color-tag-bg: #0A1E3D;
-    --color-tag-text: #7AB8E8;
-    --color-tag-border: #163E70;
+    --color-tag-bg: #091C38;
+    --color-tag-text: #6AADE0;
+    --color-tag-border: #133968;
 
     --color-code-bg: #1C1917;
     --color-code-text: #FAFAF9;
 
-    --color-selection: #163E70;
+    --color-selection: #133968;
     --color-selection-text: #FAFAF9;
 
     --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.2);
@@ -3354,17 +3354,13 @@ main {
     gap: var(--space-sm);
     padding: var(--space-sm) var(--space-md);
     margin-bottom: var(--space-xl);
-    background: linear-gradient(135deg, #F4F9FF 0%, #EBF3FF 100%);
+    background: linear-gradient(135deg, var(--color-bg-elevated) 0%, var(--color-accent-subtle) 100%);
     border: 2px dashed var(--color-accent);
     border-radius: var(--radius-md);
     font-family: var(--font-mono);
     font-size: var(--step-0);
 }
 
-:root[data-theme="dark"] .draft-banner {
-    background: linear-gradient(135deg, #292524 0%, #44403C 100%);
-    border-color: var(--color-accent);
-}
 
 .draft-icon {
     font-size: var(--step-2);
