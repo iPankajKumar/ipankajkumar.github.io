@@ -125,12 +125,12 @@
       "url": "/posts/",
       "icons": [
         {
-          "src": "/icons/shortcut-posts-96x96.png",
+          "src": "/icons/shortcuts/shortcut-posts-96x96.png",
           "sizes": "96x96",
           "type": "image/png"
         },
         {
-          "src": "/icons/shortcut-posts-192x192.png",
+          "src": "/icons/shortcuts/shortcut-posts-192x192.png",
           "sizes": "192x192",
           "type": "image/png"
         }
@@ -143,12 +143,12 @@
       "url": "/rtd/",
       "icons": [
         {
-          "src": "/icons/shortcut-rtd-96x96.png",
+          "src": "/icons/shortcuts/shortcut-rtd-96x96.png",
           "sizes": "96x96",
           "type": "image/png"
         },
         {
-          "src": "/icons/shortcut-rtd-192x192.png",
+          "src": "/icons/shortcuts/shortcut-rtd-192x192.png",
           "sizes": "192x192",
           "type": "image/png"
         }
@@ -161,12 +161,12 @@
       "url": "/travel/",
       "icons": [
         {
-          "src": "/icons/shortcut-travel-96x96.png",
+          "src": "/icons/shortcuts/shortcut-travel-96x96.png",
           "sizes": "96x96",
           "type": "image/png"
         },
         {
-          "src": "/icons/shortcut-travel-192x192.png",
+          "src": "/icons/shortcuts/shortcut-travel-192x192.png",
           "sizes": "192x192",
           "type": "image/png"
         }
@@ -179,12 +179,12 @@
       "url": "/projects/",
       "icons": [
         {
-          "src": "/icons/shortcut-projects-96x96.png",
+          "src": "/icons/shortcuts/shortcut-projects-96x96.png",
           "sizes": "96x96",
           "type": "image/png"
         },
         {
-          "src": "/icons/shortcut-projects-192x192.png",
+          "src": "/icons/shortcuts/shortcut-projects-192x192.png",
           "sizes": "192x192",
           "type": "image/png"
         }
@@ -197,12 +197,12 @@
       "url": "/services/",
       "icons": [
         {
-          "src": "/icons/shortcut-services-96x96.png",
+          "src": "/icons/shortcuts/shortcut-services-96x96.png",
           "sizes": "96x96",
           "type": "image/png"
         },
         {
-          "src": "/icons/shortcut-services-192x192.png",
+          "src": "/icons/shortcuts/shortcut-services-192x192.png",
           "sizes": "192x192",
           "type": "image/png"
         }
@@ -215,12 +215,12 @@
       "url": "/topics/",
       "icons": [
         {
-          "src": "/icons/shortcut-topics-96x96.png",
+          "src": "/icons/shortcuts/shortcut-topics-96x96.png",
           "sizes": "96x96",
           "type": "image/png"
         },
         {
-          "src": "/icons/shortcut-topics-192x192.png",
+          "src": "/icons/shortcuts/shortcut-topics-192x192.png",
           "sizes": "192x192",
           "type": "image/png"
         }
@@ -233,12 +233,12 @@
       "url": "/contact/",
       "icons": [
         {
-          "src": "/icons/shortcut-contact-96x96.png",
+          "src": "/icons/shortcuts/shortcut-contact-96x96.png",
           "sizes": "96x96",
           "type": "image/png"
         },
         {
-          "src": "/icons/shortcut-contact-192x192.png",
+          "src": "/icons/shortcuts/shortcut-contact-192x192.png",
           "sizes": "192x192",
           "type": "image/png"
         }
@@ -251,12 +251,12 @@
       "url": "/",
       "icons": [
         {
-          "src": "/icons/shortcut-home-96x96.png",
+          "src": "/icons/shortcuts/shortcut-home-96x96.png",
           "sizes": "96x96",
           "type": "image/png"
         },
         {
-          "src": "/icons/shortcut-home-192x192.png",
+          "src": "/icons/shortcuts/shortcut-home-192x192.png",
           "sizes": "192x192",
           "type": "image/png"
         }
