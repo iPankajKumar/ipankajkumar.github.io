@@ -2,7 +2,7 @@
   "name": "Pankaj Kumar",
   "short_name": "Pankaj",
   "description": "Code explorations, engineering thoughts, and life in between.",
-  "id": "/?source=pwa",
+  "id": "/",
   "start_url": "/?source=pwa",
   "scope": "/",
   "display": "standalone",
@@ -109,6 +109,62 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512x512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Home",
+      "short_name": "Home",
+      "description": "Return to the homepage.",
+      "url": "/"
+    },
+    {
+      "name": "Posts",
+      "short_name": "Posts",
+      "description": "Technical deep dives, engineering field notes, and personal thoughts on life and everything in between.",
+      "url": "/posts/"
+    },
+    {
+      "name": "Topics",
+      "short_name": "Topics",
+      "description": "Browse by topic. Everything's tagged, nothing's hidden.",
+      "url": "/topics/"
+    },
+    {
+      "name": "Read the Docs",
+      "short_name": "RTD",
+      "description": "A curated collection of notes on things I've learned, one discovery at a time.",
+      "url": "/rtd/"
+    },
+    {
+      "name": "Projects",
+      "short_name": "Projects",
+      "description": "Code I've written, tools I've built, experiments I've run - all open source.",
+      "url": "/projects/"
+    },
+    {
+      "name": "Services",
+      "short_name": "Services",
+      "description": "Tools I built for myself and use often - hosted publicly. If they're useful to you, they're yours to use.",
+      "url": "/services/"
+    },
+    {
+      "name": "Travel",
+      "short_name": "Travel",
+      "description": "Stories from the road - routes taken, unplanned stops, and everything in between.",
+      "url": "/travel/"
+    },
+    {
+      "name": "Contact",
+      "short_name": "Contact",
+      "description": "Find me on the internet - drop me an email or pick any of these platforms.",
+      "url": "/contact/"
     }
   ]
 }
