@@ -119,52 +119,148 @@
   ],
   "shortcuts": [
     {
-      "name": "Home",
-      "short_name": "Home",
-      "description": "Return to the homepage.",
-      "url": "/"
-    },
-    {
       "name": "Posts",
       "short_name": "Posts",
       "description": "Technical deep dives, engineering field notes, and personal thoughts on life and everything in between.",
-      "url": "/posts/"
-    },
-    {
-      "name": "Topics",
-      "short_name": "Topics",
-      "description": "Browse by topic. Everything's tagged, nothing's hidden.",
-      "url": "/topics/"
+      "url": "/posts/",
+      "icons": [
+        {
+          "src": "/icons/shortcuts/shortcut-posts-96x96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "/icons/shortcuts/shortcut-posts-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
     },
     {
       "name": "Read the Docs",
       "short_name": "RTD",
       "description": "A curated collection of notes on things I've learned, one discovery at a time.",
-      "url": "/rtd/"
-    },
-    {
-      "name": "Projects",
-      "short_name": "Projects",
-      "description": "Code I've written, tools I've built, experiments I've run - all open source.",
-      "url": "/projects/"
-    },
-    {
-      "name": "Services",
-      "short_name": "Services",
-      "description": "Tools I built for myself and use often - hosted publicly. If they're useful to you, they're yours to use.",
-      "url": "/services/"
+      "url": "/rtd/",
+      "icons": [
+        {
+          "src": "/icons/shortcuts/shortcut-rtd-96x96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "/icons/shortcuts/shortcut-rtd-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
     },
     {
       "name": "Travel",
       "short_name": "Travel",
       "description": "Stories from the road - routes taken, unplanned stops, and everything in between.",
-      "url": "/travel/"
+      "url": "/travel/",
+      "icons": [
+        {
+          "src": "/icons/shortcuts/shortcut-travel-96x96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "/icons/shortcuts/shortcut-travel-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Projects",
+      "short_name": "Projects",
+      "description": "Code I've written, tools I've built, experiments I've run - all open source.",
+      "url": "/projects/",
+      "icons": [
+        {
+          "src": "/icons/shortcuts/shortcut-projects-96x96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "/icons/shortcuts/shortcut-projects-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Services",
+      "short_name": "Services",
+      "description": "Tools I built for myself and use often - hosted publicly. If they're useful to you, they're yours to use.",
+      "url": "/services/",
+      "icons": [
+        {
+          "src": "/icons/shortcuts/shortcut-services-96x96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "/icons/shortcuts/shortcut-services-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Topics",
+      "short_name": "Topics",
+      "description": "Browse by topic. Everything's tagged, nothing's hidden.",
+      "url": "/topics/",
+      "icons": [
+        {
+          "src": "/icons/shortcuts/shortcut-topics-96x96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "/icons/shortcuts/shortcut-topics-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
     },
     {
       "name": "Contact",
       "short_name": "Contact",
       "description": "Find me on the internet - drop me an email or pick any of these platforms.",
-      "url": "/contact/"
+      "url": "/contact/",
+      "icons": [
+        {
+          "src": "/icons/shortcuts/shortcut-contact-96x96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "/icons/shortcuts/shortcut-contact-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Home",
+      "short_name": "Home",
+      "description": "Return to the homepage.",
+      "url": "/",
+      "icons": [
+        {
+          "src": "/icons/shortcuts/shortcut-home-96x96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "/icons/shortcuts/shortcut-home-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
     }
   ]
 }
