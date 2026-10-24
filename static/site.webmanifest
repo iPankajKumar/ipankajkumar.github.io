@@ -128,13 +128,13 @@
           "src": "/icons/shortcuts/shortcut-posts-96x96.png",
           "sizes": "96x96",
           "type": "image/png",
-          "purpose": "maskable"
+          "purpose": "any"
         },
         {
           "src": "/icons/shortcuts/shortcut-posts-192x192.png",
           "sizes": "192x192",
           "type": "image/png",
-          "purpose": "maskable"
+          "purpose": "any"
         }
       ]
     },
@@ -148,13 +148,13 @@
           "src": "/icons/shortcuts/shortcut-rtd-96x96.png",
           "sizes": "96x96",
           "type": "image/png",
-          "purpose": "maskable"
+          "purpose": "any"
         },
         {
           "src": "/icons/shortcuts/shortcut-rtd-192x192.png",
           "sizes": "192x192",
           "type": "image/png",
-          "purpose": "maskable"
+          "purpose": "any"
         }
       ]
     },
@@ -168,13 +168,13 @@
           "src": "/icons/shortcuts/shortcut-travel-96x96.png",
           "sizes": "96x96",
           "type": "image/png",
-          "purpose": "maskable"
+          "purpose": "any"
         },
         {
           "src": "/icons/shortcuts/shortcut-travel-192x192.png",
           "sizes": "192x192",
           "type": "image/png",
-          "purpose": "maskable"
+          "purpose": "any"
         }
       ]
     },
@@ -188,13 +188,13 @@
           "src": "/icons/shortcuts/shortcut-projects-96x96.png",
           "sizes": "96x96",
           "type": "image/png",
-          "purpose": "maskable"
+          "purpose": "any"
         },
         {
           "src": "/icons/shortcuts/shortcut-projects-192x192.png",
           "sizes": "192x192",
           "type": "image/png",
-          "purpose": "maskable"
+          "purpose": "any"
         }
       ]
     },
@@ -208,13 +208,13 @@
           "src": "/icons/shortcuts/shortcut-services-96x96.png",
           "sizes": "96x96",
           "type": "image/png",
-          "purpose": "maskable"
+          "purpose": "any"
         },
         {
           "src": "/icons/shortcuts/shortcut-services-192x192.png",
           "sizes": "192x192",
           "type": "image/png",
-          "purpose": "maskable"
+          "purpose": "any"
         }
       ]
     },
@@ -228,13 +228,13 @@
           "src": "/icons/shortcuts/shortcut-topics-96x96.png",
           "sizes": "96x96",
           "type": "image/png",
-          "purpose": "maskable"
+          "purpose": "any"
         },
         {
           "src": "/icons/shortcuts/shortcut-topics-192x192.png",
           "sizes": "192x192",
           "type": "image/png",
-          "purpose": "maskable"
+          "purpose": "any"
         }
       ]
     },
@@ -248,13 +248,13 @@
           "src": "/icons/shortcuts/shortcut-contact-96x96.png",
           "sizes": "96x96",
           "type": "image/png",
-          "purpose": "maskable"
+          "purpose": "any"
         },
         {
           "src": "/icons/shortcuts/shortcut-contact-192x192.png",
           "sizes": "192x192",
           "type": "image/png",
-          "purpose": "maskable"
+          "purpose": "any"
         }
       ]
     },
@@ -268,13 +268,13 @@
           "src": "/icons/shortcuts/shortcut-home-96x96.png",
           "sizes": "96x96",
           "type": "image/png",
-          "purpose": "maskable"
+          "purpose": "any"
         },
         {
           "src": "/icons/shortcuts/shortcut-home-192x192.png",
           "sizes": "192x192",
           "type": "image/png",
-          "purpose": "maskable"
+          "purpose": "any"
         }
       ]
     }
